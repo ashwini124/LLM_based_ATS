@@ -2,9 +2,10 @@
 
 Developed an ATS using Streamlit and Google Gemini Pro to evaluate resumes, providing match percentages, missing keywords, and profile summaries based on job descriptions with advanced generative AI capabilities.
 
-Takes resume in pdf formate and job description as text in input. And provides the percentage match, missing keywords and profile summary as output.
+Takes resume in pdf format and job description as text in input. And provides the percentage match, missing keywords and profile summary as output.
 
 This project requires a Google API Key, please create your own through makersuite or from here - https://aistudio.google.com/app/apikey
+and then create .env file in your project directory. Create a variable GOOGLE_API_KEY in .env file, for instance, GOOGLE_API_KEY = "paste_your_api_key_here".
 
 Please vide the below screenshots for reference.
 
