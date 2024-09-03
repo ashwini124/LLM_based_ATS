@@ -12,6 +12,6 @@ Please vide the below screenshots for reference.
 
 ![230F74EA-7A55-4B3E-9F2F-116D9EC4451F_1_201_a](https://github.com/user-attachments/assets/bcc7bccb-4790-4f51-a964-ad9aa1d1ebb3)
 
-https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXA0Nm1weGI1a3hob3U5cXBmczF6eTZnbDhpMGYyNmF1N2JhNXBzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IqRYjzq9wYpY9rAKPk/giphy.gif
+<iframe src="https://giphy.com/embed/IqRYjzq9wYpY9rAKPk" width="480" height="384" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/enhancv-resume-ats-resumechecker-IqRYjzq9wYpY9rAKPk">via GIPHY</a></p>
 
 Thank you!!
