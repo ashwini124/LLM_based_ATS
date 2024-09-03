@@ -11,7 +11,8 @@ Please vide the below screenshots for reference.
 
 <img width="1435" alt="Screenshot 2024-09-02 at 4 57 39 PM" src="https://github.com/user-attachments/assets/0cb48b30-35b2-41c5-8aae-76a713aeb4ed">
 
-![230F74EA-7A55-4B3E-9F2F-116D9EC4451F_1_201_a](https://github.com/user-attachments/assets/bcc7bccb-4790-4f51-a964-ad9aa1d1ebb3)
+<img width="717" alt="Screenshot 2024-09-02 at 6 58 26 PM" src="https://github.com/user-attachments/assets/5d0a6875-9d6c-4708-b527-a971dbd4597c">
+
 
 ![1*Upvl2firPnbSp2ygl5N3IQ](https://github.com/user-attachments/assets/42602042-95bd-4cd9-961d-2c1fd9c3a8ca)
 
